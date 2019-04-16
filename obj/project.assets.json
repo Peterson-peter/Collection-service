@@ -12096,11 +12096,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/pete/repos/collection/collection.csproj",
-      "projectName": "collection",
-      "projectPath": "/home/pete/repos/collection/collection.csproj",
+      "projectUniqueName": "/home/pete/repos/Collection-service/Collection-service.csproj",
+      "projectName": "Collection-service",
+      "projectPath": "/home/pete/repos/Collection-service/Collection-service.csproj",
       "packagesPath": "/home/pete/.nuget/packages/",
-      "outputPath": "/home/pete/repos/collection/obj/",
+      "outputPath": "/home/pete/repos/Collection-service/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
